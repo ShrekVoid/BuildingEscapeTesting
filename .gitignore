@@ -12,3 +12,7 @@ BuildingEscape/Content/StarterContent/
 # VS Generated Files #
 ######################
 *.VC.db
+*.ipch
+*.db-wal
+*.opendb
+*.db-shm
